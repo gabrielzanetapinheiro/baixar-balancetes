@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         AUDESP - Baixar balancetes
 // @namespace    tcesp.audesp.balancetes
-// @version      2.1.0
+// @version      2.1.1
 // @description  Extrai balancetes do AUDESP em lote: vários municípios, entidades, exercícios, meses e tipos de consulta, em um único ZIP.
 // @match        https://audesp.tce.sp.gov.br/audesp/*
+// @updateURL    https://raw.githubusercontent.com/gabrielzanetapinheiro/baixar-balancetes/main/script.js
+// @downloadURL  https://raw.githubusercontent.com/gabrielzanetapinheiro/baixar-balancetes/main/script.js
+// @homepageURL  https://github.com/gabrielzanetapinheiro/baixar-balancetes
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-idle
